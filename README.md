@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=klomgor&show_icons=true&count_private=true&theme=solarized-light&hide_border=true" width="600" alt="Klomgor's Readme Stats">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=klomgor&theme=solarized-light&hide_border=true" width="60%" alt="klomgor's GitHub Streak">
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black" alt=".ENV Badge">
 <img src="https://img.shields.io/badge/AFFiNE-1E96EB.svg?style=for-the-badge&logo=AFFiNE&logoColor=white" alt="AFFiNE Badge">
 <img src="https://img.shields.io/badge/Airbyte-615EFF.svg?style=for-the-badge&logo=Airbyte&logoColor=white" alt="Airbyte Badge">
