@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 <img alt="klomgor's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=klomgor&theme=solarized-light&hide_border=true" width="60%">
 </p>
 
-<img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black">
-<img src="https://img.shields.io/badge/AFFiNE-1E96EB.svg?style=for-the-badge&logo=AFFiNE&logoColor=white">
+<img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black"><img src="https://img.shields.io/badge/AFFiNE-1E96EB.svg?style=for-the-badge&logo=AFFiNE&logoColor=white">
 <img src="https://img.shields.io/badge/Airbyte-615EFF.svg?style=for-the-badge&logo=Airbyte&logoColor=white">
 <img src="https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=Ansible&logoColor=white">
 <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=Apache-Airflow&logoColor=white">
