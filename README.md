@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=klomgor&show_icons=true&count_private=true&theme=solarized-light&hide_border=true" width="600">
+</p>
+
+<img alt="klomgor's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=klomgor&theme=solarized-light&hide_border=true" width="60%">
+
+<img src="https://gpvc.arturio.dev/klomgor" alt="Profile views"/>
