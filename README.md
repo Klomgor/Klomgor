@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-That's a profile of a Tech Enthusiast/Noob who has a Mechanical Engineering Bachelor's Degree and is Working in Construction Management.
+This is a profile of a Tech Enthusiast/Noob who has a Mechanical Engineering Bachelor's Degree and is Working in Construction Management.
 
 If you're not here by mistake, it means that at least one of us knows what he's doing!
 
